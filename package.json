@@ -1,0 +1,11 @@
+{
+  "name": "simple_test",
+  "version": "1.0.0",
+  "description": "simple puppeteer test",
+  "main": "index.js",
+  "author": "ibrahim",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^21.1.1"
+  }
+}
